@@ -2,6 +2,7 @@
 
 *Collection of awesome machine learning related repositories*
 
+* [Awesome Python](https://github.com/vinta/awesome-python)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome Data Science](https://github.com/academic/awesome-datascience)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
@@ -18,7 +19,6 @@
 * [Awesome GANS](https://github.com/nashory/gans-awesome-applications)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome RNNs](https://github.com/kjw0612/awesome-rnn)
-* [Awesome Python](https://github.com/vinta/awesome-python)
 * [Awesome Data Visualization](https://github.com/fasouto/awesome-dataviz)
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [Awesome Images](https://github.com/heyalexej/awesome-images)
