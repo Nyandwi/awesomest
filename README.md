@@ -1,6 +1,6 @@
 # Awesomest
 
-*Collection of awesome machine learning related repositories*
+*A collection of awesome machine learning related repositories*
 
 * [Awesome Python](https://github.com/vinta/awesome-python)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
