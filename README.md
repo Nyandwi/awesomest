@@ -21,7 +21,7 @@
 * [Awesome Python](https://github.com/vinta/awesome-python)
 * [Awesome Data Visualization](https://github.com/fasouto/awesome-dataviz)
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-* [Awesome Images](https://github.com/heyalexej/awesome-images
+* [Awesome Images](https://github.com/heyalexej/awesome-images)
 * [Awesome ML Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 * [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 * [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization)
