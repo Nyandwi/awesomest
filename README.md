@@ -1,6 +1,9 @@
 # Awesomest
-
 *A collection of awesome machine learning related repositories*
+
+After finding myself starring some of these repositories, one after another, I thought it would be cool to put them into one place. 
+
+#### Awesome Repositories
 
 * [Awesome Python](https://github.com/vinta/awesome-python)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -29,5 +32,11 @@
 * [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization)
 * [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling)
 * [Awesome Data Labeling](https://github.com/heartexlabs/awesome-data-labeling)
+
+
+#### Acknowledgements
+
+These awesome repositories were made by awesome people from differents fields of machine learning. If you find their works helpful, let them know. They are the ones who deserve full credits of their works. I have merely collected them to make it easy to find them. 
+
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/jeande_d?style=social)
