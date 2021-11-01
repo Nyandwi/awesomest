@@ -12,7 +12,7 @@
 * [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) 
 * [Awesome Computer Vision Models](https://github.com/gmalivenko/awesome-computer-vision-models) 
-* [Awesome Computer Vision Pretrained Models2](https://github.com/balavenkatesh3322/CV-pretrained-model)
+* [Awesome Computer Vision Pretrained Models](https://github.com/balavenkatesh3322/CV-pretrained-model)
 * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) [+1](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
