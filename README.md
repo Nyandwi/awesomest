@@ -7,6 +7,7 @@ After finding myself starring some of these repositories, one after another, I t
 
 * [Awesome Python](https://github.com/vinta/awesome-python)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome ML Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 * [Awesome Data Science](https://github.com/academic/awesome-datascience)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
@@ -16,6 +17,7 @@ After finding myself starring some of these repositories, one after another, I t
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) 
 * [Awesome Computer Vision Models](https://github.com/gmalivenko/awesome-computer-vision-models) 
 * [Awesome Computer Vision Pretrained Models](https://github.com/balavenkatesh3322/CV-pretrained-model)
+* [Awesome Visual Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)
 * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) [+1](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
@@ -24,15 +26,13 @@ After finding myself starring some of these repositories, one after another, I t
 * [Awesome GANS](https://github.com/nashory/gans-awesome-applications)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome RNNs](https://github.com/kjw0612/awesome-rnn)
-* [Awesome Data Visualization](https://github.com/fasouto/awesome-dataviz)
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-* [Awesome Images](https://github.com/heyalexej/awesome-images)
-* [Awesome ML Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 * [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 * [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization)
 * [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling)
 * [Awesome Data Labeling](https://github.com/heartexlabs/awesome-data-labeling)
-
+* [Awesome Data Visualization](https://github.com/fasouto/awesome-dataviz)
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [Awesome Images](https://github.com/heyalexej/awesome-images)
 
 #### Acknowledgements
 
